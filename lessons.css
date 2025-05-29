@@ -1,0 +1,177 @@
+h1 {
+  font-family: "Kanit", sans-serif;
+  position: fixed;
+  left: 600px;
+  color: white;
+}
+
+h2 {
+  font-family: "Kanit", sans-serif;
+  text-align: center;
+  right: 1000px;
+  color: white;
+}
+
+body {
+  background-color: cyan;
+  background: url("/images/lessonsBg.avif") no-repeat;
+  background-size: 100% 100%;
+}
+
+#one{
+  background-color:blue;
+  border-radius:20px;
+  font-family: "Kanit", sans-serif;
+  font-size:28px;
+  padding: 5px;
+  color: white;
+  text-decoration:none;
+  position: fixed; 
+  left: 850px;
+  top: 20px;
+}
+
+#two{
+  background-color:blue;
+  border-radius:20px;
+  font-family: "Kanit", sans-serif;
+  font-size:28px;
+  padding: 5px;
+  color: white;
+  text-decoration:none;
+  position: fixed; 
+  left: 1055px;
+  top: 20px;
+}
+
+#three{
+  background-color:blue;
+  border-radius:20px;
+  font-family: "Kanit", sans-serif;
+  font-size:28px;
+  padding: 5px;
+  color: white;
+  text-decoration:none;
+  position: fixed; 
+  left: 1200px;
+  top: 20px;
+}
+
+a:hover{
+   border:4px solid black;
+}
+
+#logo {
+  outline: none;
+  border: 2px solid #fafafa;
+  background-color: black;
+  color: #fafafa;
+  padding: 10px;
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  height: 100px;
+  width: 100px;
+}
+
+#text{
+  font-family: "Kanit", sans-serif;
+  text-align: center;
+  position: relative;
+  top: 25px;
+  left: 0px;
+  color: black;
+}
+
+#intro{
+  width: 600px;
+  height: 600px;
+  border: 2px solid red;
+  margin: auto;
+  display: flex;
+  flex-flow: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  position: fixed;
+  top: 100px;
+  left: 350px;
+  background-color: rgba(248, 244, 244, 0.5);
+}
+
+#l1{
+  background-color:blue;
+  border-radius:20px;
+  font-family: "Kanit", sans-serif;
+  font-size:28px;
+  padding: 5px;
+  color: white;
+  text-decoration:none;
+  position: fixed; 
+  left: 385px;
+  top: 300px;
+}
+
+#l2{
+  background-color:blue;
+  border-radius:20px;
+  font-family: "Kanit", sans-serif;
+  font-size:28px;
+  padding: 5px;
+  color: white;
+  text-decoration:none;
+  position: fixed; 
+  left: 585px;
+  top: 300px;
+}
+
+#l3{
+  background-color:blue;
+  border-radius:20px;
+  font-family: "Kanit", sans-serif;
+  font-size:28px;
+  padding: 5px;
+  color: white;
+  text-decoration:none;
+  position: fixed; 
+  left: 785px;
+  top: 300px;
+}
+
+#l4{
+  background-color:blue;
+  border-radius:20px;
+  font-family: "Kanit", sans-serif;
+  font-size:28px;
+  padding: 5px;
+  color: white;
+  text-decoration:none;
+  position: fixed; 
+  left: 385px;
+  top: 400px;
+}
+
+#l5{
+  background-color:blue;
+  border-radius:20px;
+  font-family: "Kanit", sans-serif;
+  font-size:28px;
+  padding: 5px;
+  color: white;
+  text-decoration:none;
+  position: fixed; 
+  left: 585px;
+  top: 400px;
+}
+
+#l6{
+  background-color:blue;
+  border-radius:20px;
+  font-family: "Kanit", sans-serif;
+  font-size:28px;
+  padding: 5px;
+  color: white;
+  text-decoration:none;
+  position: fixed; 
+  left: 785px;
+  top: 400px;
+}
