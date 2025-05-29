@@ -8,5 +8,5 @@ This website was developed as a submission for the 2024 Congressional App Challe
 
 
 ## Contributers
-Pranav M
+Pranav M  
 Ayush N
