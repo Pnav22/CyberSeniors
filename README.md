@@ -10,3 +10,7 @@ This website aims to educate senior citizens on essential cybersecurity concepts
 
 ## Demo link
 https://cyber-seniors-ihj9.vercel.app/
+
+
+## Credit
+Made by Pranav M and Ayush N
